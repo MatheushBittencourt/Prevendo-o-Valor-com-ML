@@ -1,7 +1,3 @@
-Aqui está um exemplo de um **README.md** bem completo para o seu projeto. Ele inclui uma descrição clara, instruções de instalação e uso, e algumas seções extras para tornar o repositório mais profissional e atraente.
-
----
-
 # 🍕 Prevendo o Valor de uma Pizza
 
 Este projeto é uma aplicação interativa criada com [Streamlit](https://streamlit.io/) que prevê o valor de uma pizza com base em seu diâmetro. A aplicação utiliza um modelo de regressão linear simples, treinado com dados de preços de pizzas de diferentes tamanhos, armazenados em um arquivo CSV.
